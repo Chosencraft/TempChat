@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: WorldBorder
+Build-With: Gradle v4.8
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.chosencraft.www.worldborder.WorldBorderMain
+

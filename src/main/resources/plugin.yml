@@ -1,0 +1,10 @@
+name: TempChat
+version: 0.1
+main: com.chosencraft.www.tempchat.TempChat
+description: Hotfix
+author: Kiro47
+
+commands:
+  help:
+    description: Help
+    usage: /<command> (Message)
